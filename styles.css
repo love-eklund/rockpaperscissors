@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}    
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    padding: 2em;
+    background-color: burlywood;
+    border: 2px solid black;
+}
